@@ -1,6 +1,6 @@
 //https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
 
-//Method 2:his solution requires modifications to the basic 
+//Method 2:this solution requires modifications to the basic 
 //linked list data structure
 //->done in codeblocks
 #include<bits/stdc++.h>
