@@ -2,7 +2,7 @@
 
 //Method 2:this solution requires modifications to the basic 
 //linked list data structure
-//->done in codeblocks
+//TC->O(N) SC->O(1)
 #include<bits/stdc++.h>
 using namespace std;
 struct node
