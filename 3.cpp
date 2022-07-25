@@ -136,8 +136,8 @@ class Solution
         Node *fast=head;//takes 2-step at a time
         Node *slow=head;//takes 1-step at a time
         while(fast!=NULL && fast->next!=NULL)
-        //fast==NULL :: odd no. of elements
-        //fast->next==NULL :: even no. of elements
+        //fast==NULL :: even no. of elements
+        //fast->next==NULL :: odd no. of elements
         {
             slow=slow->next;
             fast=fast->next->next;
